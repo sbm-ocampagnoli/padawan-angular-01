@@ -17,6 +17,11 @@ export class ListarPensamentoComponent implements OnInit {
       conteudo: 'Se não tem problema, solucionado está.',
       autoria: 'Dev Sênior',
       modelo: 'modelo2'
+    },
+    {
+      conteudo: 'dsadjsaisdjiasjdoajodipadpojadjaodjksadkopdjasdjhsaidjsaokdosadsadsjapjdsajksadpojasjdsajdpdksapodksaoasdjdopsajdsaopjdsajdaspojdaspodsjpdposajdopsajsdjdapjopdasiopdjiaopsdiopdjasiopdjaspoidjadhiasdhoashdioashddioashdiaoshdiosahdioashiodhasiodhasiodhaosihdoashdoiahsdohasd',
+      autoria: 'Dev Sênior',
+      modelo: 'modelo2'
     }
   ]
 
