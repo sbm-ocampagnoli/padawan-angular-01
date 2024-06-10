@@ -2,20 +2,20 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que voce veio",
-      "autoria": "Otavio",
+      "conteudo": "We are the champions my friends!!!",
+      "autoria": "Queen",
       "modelo": "modelo1"
     },
     {
       "id": 2,
-      "conteudo": "Estudando TypeScript",
-      "autoria": "Dev Pleno",
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev da madrugada",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Angular é o melhor",
-      "autoria": "Estágiario Sênior",
+      "conteudo": "Continue a codar... continue a codar...",
+      "autoria": "Dory programadora",
       "modelo": "modelo3"
     }
   ]
