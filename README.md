@@ -14,8 +14,8 @@ Repositório criado para aplicação prática dos conceitos do curso "Angular 14
 
 - `git clone https://github.com/sbm-ocampagnoli/padawan-angular-01.git`
 
-- cd memoteca
+- `cd memoteca`
 
-- ng serve
+- `ng serve`
 
 - open in your browser: http://localhost:4200/
